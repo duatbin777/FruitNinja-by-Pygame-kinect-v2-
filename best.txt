@@ -1,0 +1,3 @@
+zen_mode:36
+classic_mode:56
+kinect_mode:1202
